@@ -68,7 +68,7 @@ export default function Home() {
         <DogCard></DogCard>
         <DogCard></DogCard>
         <DogCard></DogCard>
-        <div className="add-card justify-center p-8 border border-gray-200 rounded hover:border-0 hover:shadow-xl hover:cursor-pointer transition-all duration-200 flex flex-col items-center hover:border-white">
+        <div className="add-card justify-center p-8 border border-gray-200 rounded hover:border-2 hover:cursor-pointer transition-all duration-100 flex flex-col items-center hover:border-indigo-600">
             <div className="add-dog-icon w-16 h-16 bg-indigo-600 rounded-full flex items-center justify-center">
                 <PlusIcon className="text-white w-6 h-6"></PlusIcon> 
             </div>  
