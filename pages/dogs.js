@@ -1,7 +1,7 @@
 import Head from 'next/head'
-import BannerTeaser from "../Components/BannerTeaser"
-import MainMenu from "../Components/Header"
-import DogCard from "../Components/DogCard"
+import BannerTeaser from "../components/BannerTeaser"
+import MainMenu from "../components/Header"
+import DogCard from "../components/DogCard"
 import { PlusIcon } from '@heroicons/react/solid'
 import { PlusCircleIcon } from '@heroicons/react/outline'
 
