@@ -6,9 +6,9 @@ import { PlusIcon } from '@heroicons/react/solid'
 import { PlusCircleIcon } from '@heroicons/react/outline'
 
 const tabs = [
-    { name: 'Alle', href: '#', current: true },
-    { name: 'Hunde', href: '#', current: false },
-    { name: 'Katzen', href: '#', current: false },
+    { name: 'Alle (22)', href: '#', current: true },
+    { name: 'Hunde (10)', href: '#', current: false },
+    { name: 'Katzen (2)', href: '#', current: false },
     { name: 'Pferde', href: '#', current: false },
   ]
   
